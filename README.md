@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there! 👋
+Thanks for stopping by my profile. 
+<br>As a passionate web developer, I strive to create unique and innovative web solutions that leave a lasting impact. From front-end design to back-end development, I'm always up for a challenge and eager to learn something new. 
+<br>So grab a cup of coffee ☕️ and let's dive into the world of web development together! 🌐💻
 
 <!--
 **AshishGujral/AshishGujral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
